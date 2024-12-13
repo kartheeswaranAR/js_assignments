@@ -77,11 +77,7 @@ $ git clone https://github.com/kartheeswaranAR/js_assignments
 # Access
 $ cd js_assignments
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
+$on the live server
 
 # The server will initialize in the <http://localhost:3000>
 ```
